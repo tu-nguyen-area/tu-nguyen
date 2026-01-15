@@ -1,20 +1,21 @@
 import Link from 'next/link';
 
 const products = [
-  { name: "TN OS", url: "https://tnos.tn-technology.com/", content: "A website about a Linux distribution based on the Linux kernel.", },
+  { name: "TN OS", url: "https://tnos.tnadvancement.com/", content: "A website about a Linux distribution based on the Linux kernel.", },
   { name: "TN Technology", url: "https://tn-technology.com/", content: "A technology business website.", },
-  { name: "TN Connect", url: "https://tnconnect.tn-technology.com/", content: "A chat website.", },
-  { name: "TN Cars", url: "https://tncars.tn-technology.com/", content: "A cars business website.", },
-  { name: "TN Management", url: "https://tnmanagement.tn-technology.com/", content: "A management website.", },
-  { name: "TN Computer", url: "https://tncomputer.tn-technology.com/", content: "A computer business website.", },
-  { name: "TN Vision", url: "https://tnvision.tn-technology.com/", content: "A website introducing computer vision services.", },
-  { name: "TN News", url: "https://tnnews.tn-technology.com/", content: "A news website.", },
-  { name: "TN Notes", url: "https://tnnotes.tn-technology.com/", content: "A notes website.", },
-  { name: "TN Cake", url: "https://daisycake.tn-technology.com/", content: "A website about cake.", },
-  { name: "TN Authenticator", url: "https://authenticator.tn-technology.com/", content: "A authenticator web app.", },
-  { name: "TN Tourism", url: "https://tntourism.tn-technology.com/", content: "A tourism website.", },
-  { name: "TN Wedding", url: "https://tnwedding.tn-technology.com/", content: "A wedding website.", },
-  { name: "TN Rust", url: "https://rust.tn-technology.com/", content: "A rust information website.", },
+  { name: "TN Connect", url: "https://connect.tnadvancement.com/", content: "A chat website.", },
+  { name: "TN Cars", url: "https://bydcars.tn-technology.com/", content: "A cars business website.", },
+  { name: "TN Management", url: "https://management.tnadvancement.com/", content: "A management website.", },
+  { name: "TN Computer", url: "https://computer.tnadvancement.com/", content: "A computer business website.", },
+  { name: "TN Vision", url: "https://vision.tnadvancement.com/", content: "A website introducing computer vision services.", },
+  { name: "TN News", url: "https://news.tnadvancement.com/", content: "A news website.", },
+  { name: "TN Notes", url: "https://notes.tnadvancement.com/", content: "A notes website.", },
+  { name: "TN Cake", url: "https://cake.tn-technology.com/", content: "A website about cake.", },
+  { name: "TN Authenticator", url: "https://auth.tnadvancement.com/", content: "A authenticator web app.", },
+  { name: "TN Tourism", url: "https://tourism.tnadvancement.com/", content: "A tourism website.", },
+  { name: "TN Wedding", url: "https://wedding.tnadvancement.com/", content: "A wedding website.", },
+  { name: "TN Rust", url: "https://rust.tnadvancement.com/", content: "A rust information website.", },
+  { name: "TN Search", url: "https://search.tnadvancement.com/", content: "A search information website.", },
 ];
 
 export default function SectionOne() {

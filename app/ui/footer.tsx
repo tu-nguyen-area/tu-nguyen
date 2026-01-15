@@ -12,7 +12,7 @@ export default function Footer() {
     <section>
       <p>Privacy Policy | Terms of Use</p>
       <p>Powered by <Link
-        href="https://tnadvancement.tn-technology.com/"
+        href="https://www.tnadvancement.com/"
         target="_blank"
       >
         TN ADVANCEMENT</Link>

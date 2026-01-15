@@ -13,11 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Tu Nguyen Org",
-  description: "Tu Nguyen Org",
+  title: "TN Advancement",
+  description: "TN Advancement",
 };
-
-export const runtime = 'edge';
 
 export default function RootLayout({
   children,
